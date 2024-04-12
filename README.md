@@ -4,7 +4,7 @@
 * 最优控制的paper;
 
 ## book
-* Convex Optimization
+* Convex Optimization, Stephen Boyd
 * Feedback Control of Dynamic Systems 8th edition -- Gene F. Franklin, J. David Powell, Abbas Emami-Naeini
 * John T. Betts - Practical Methods for Optimal Control and Estimation Using Nonlinear Programming, Second Edition (Advances in Design and Control) (2009)
 * Jr. Arthur E. Bryson, Yu-Chi Ho - Applied Optimal Control_ Optimization, Estimation, And Control (1975)
@@ -14,6 +14,8 @@
 * Sauer - Numerical Analysis
 * An Introduction to Optimal Control Theory
 * 科学计算导论
+* Numerical Optimal Control (draft manuscript) by S. Gros and M. Diehl
+* Calculus of Variations and Optimal Control Theory: A Concise Introduction，by Daniel
 
 
 
@@ -26,6 +28,8 @@
 
 ## 课程
 * cs285， 这里讲了离散lqr，然后ilqr讲得太粗糙；
+* https://www.syscop.de/teaching/ss2020/numerical-optimal-control-online
+* https://optimalcontrol.ri.cmu.edu/
 * https://zhuanlan.zhihu.com/p/91865627, 讲了框架，但是细节缺少；
 * https://www.jianshu.com/p/83911a82dd9e, 有一些细节上的推导；
 
